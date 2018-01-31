@@ -1,0 +1,29 @@
+body {
+	background-color: "#fbf7f5";
+	background-image: url ("New_Popsicles.jpg");
+}
+
+h1 {
+	font-family: "Avant Garde", sans-serif;
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 2px 2px 8px;
+	color:#32324e;
+}
+h2 {
+	font-family: "Avant Garde", sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+header {
+	background-position: center top:
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 1.2;
+	padding: 2em;
+	;
+}
+table {
+	border: 0px;
+	text-align: "center";
+}
